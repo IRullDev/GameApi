@@ -181,7 +181,7 @@
   },
   {
     "index": 30,
-    "soal": "S-T-R-E-A-K",
+    "soal": "S-T-R-K-A-E",
     "tipe": "Benda",
     "jawaban": "KERTAS"
   },
@@ -223,7 +223,7 @@
   },
   {
     "index": 37,
-    "soal": "A-P-I-N-G-S",
+    "soal": "S-P-N-G-I-A",
     "tipe": "Buah",
     "jawaban": "PISANG"
   },
@@ -379,7 +379,7 @@
   },
   {
     "index": 63,
-    "soal": "B-A-M-O-D",
+    "soal": "A-B-D-O-M",
     "tipe": "Hewan",
     "jawaban": "DOMBA"
   },
@@ -2140,5 +2140,12 @@
     "soal": "O-D-T-R-E-K",
     "tipe": "Profesi",
     "jawaban": "DOKTER"
+  }
+  },
+    {
+    "index": 357,
+    "soal": "U-L-I-L-R",
+    "tipe": "DevBot",
+    "jawaban": "IRULL"
   }
 ]
